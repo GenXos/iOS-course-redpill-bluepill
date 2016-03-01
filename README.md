@@ -1,2 +1,2 @@
-# iOS-course-redpill-bluepill
+# redpill-bluepill
 First app I did in the IOS course
